@@ -1,4 +1,4 @@
-from django.conf.urls import url, include
+from django.conf.urls import include
 from .views import *
 from rest_framework import routers,renderers,urlpatterns
 
